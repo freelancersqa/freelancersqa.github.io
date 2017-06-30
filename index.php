@@ -1,4 +1,7 @@
 
+<?php
+echo 'hi123';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
